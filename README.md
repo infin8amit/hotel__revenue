@@ -1,6 +1,6 @@
 # hotel__revenue
 ****************************************************
-# README: Hotel Data Analysis Project
+# Hotel Data Analysis Project
 
 ## Overview
 This project involves analyzing hotel booking data from the years 2018, 2019, and 2020 to derive insights on revenue, customer behavior, and operational metrics. The analysis was conducted using MySQL, and various SQL queries were employed to extract and compute the required information.
